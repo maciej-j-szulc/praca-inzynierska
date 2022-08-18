@@ -23,8 +23,7 @@
 - Visual Studio 2019
 
 
-## Features
-List the ready features here:
+## Feature
 - Using GPS of your mobile device
 - All graphic stuff was created by myself
 
